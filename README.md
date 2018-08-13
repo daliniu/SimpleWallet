@@ -44,7 +44,7 @@ simplewallet://eos.io?param={json数据}
 > 
 > 业务流程图如下：
 
-![image](http://on-img.com/chart_image/5b658d5de4b0be50eacf8f0c.png)
+![image](https://www.processon.com/view/link/5b658d5de4b08d36229e7e1b)
 
 - 钱包扫描dapp web提供的登录二维码，此二维码的数据格式为json，包含以下数据：
 ```
